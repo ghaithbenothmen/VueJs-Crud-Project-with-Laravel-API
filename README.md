@@ -1,6 +1,6 @@
 # VueJs-Crud-Project-with-Laravel-API
-## Simple Crud with VueJs and laravel api .
-## Laravel api : in repositories API-Laravel-ForVue
+### Simple Crud with VueJs and laravel api .
+### Laravel api : in repositories API-Laravel-ForVue
 
 
  install axios : 
